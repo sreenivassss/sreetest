@@ -1,6 +1,6 @@
 ---
 - name: Echo 
-  hosts: localhost
+  hosts: 35.77.200.163
   connection: local
   tasks:
   - name: Print debug message
